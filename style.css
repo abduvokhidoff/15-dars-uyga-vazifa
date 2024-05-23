@@ -1,0 +1,167 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: black;
+    height: 100vh;
+    display: flex ;
+    justify-content: center;
+    gap: 20px;
+    align-items: center; */
+    /* align-items: end; */
+    /* align-items: start; */
+    /* justify-content: end; */
+    /* justify-content: start; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+/* }
+.box1{
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+/* body{
+    background: rgb(45, 13, 173);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1024px;
+}
+.container{
+width: 1200px;
+padding: 86px ;
+background: rgb(224, 240, 33);
+border-radius: 50px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
+gap: 100px;
+}
+.container>div{
+    width: 200px;
+    height: 200px;
+    background: rgb(36, 4, 4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container>div>div{
+    width: 133px;
+    height: 78px;
+    background: rgb(241, 1, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container>div>div>p{
+    color: white;
+    font-size: 32px;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background: rgb(255, 255, 255);
+display: flex;
+justify-content: center;
+}
+.container{
+border-radius: 40px;
+background: rgb(52, 60, 86);
+width: 1160px;
+padding: 46px 80px 79px 80px;
+margin: 58px auto;
+}
+.display{
+background: transparent;
+display: flex;
+justify-content: space-between;
+}
+.display>div{
+border-radius: 30px;
+background: rgb(255, 1, 1);
+width: 200px;
+height: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.display>div>p{
+    color: white;
+}
+.youtube{
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    margin: 68px 0;
+}
+.flexbx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 264px;
+height: 118px;
+border-radius: 40px;
+}
+.flexbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flexbx>p{
+    color: white;
+    font-size: 24px;
+}
+.css{
+    display: flex;
+    justify-content: space-between;
+    margin: 41px 0;
+}
+.css>div{
+width: 400px;
+height: 200px;
+border-radius: 40px;
+background-color: red;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.css>div>div{
+    width: 300px;
+    height: 109px;
+    background-color: rgb(97, 255, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.css>div>div>b{
+    font-size: 12px;
+    text-align: center;
+}
+
+
+
